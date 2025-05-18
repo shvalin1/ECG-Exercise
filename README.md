@@ -7,7 +7,7 @@
 Google Driveに配置された「input」フォルダには以下のParquetファイルが含まれています：
 
 ```
-data/input/
+data/
 ├── patient_data.parquet      # 患者基本情報
 ├── ecg_analysis.parquet      # 心電図解析データ
 └── waveform_data.parquet     # 波形データ
